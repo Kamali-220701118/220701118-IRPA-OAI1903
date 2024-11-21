@@ -1,0 +1,35 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "newEnd&Sequence_1",
+        "newStart&Sequence_1",
+        "taskData&Sequence_1",
+        "priority&Sequence_1",
+        "status&Sequence_1",
+        "taskName&Sequence_1",
+        "allotted&Sequence_1",
+        "choice&Sequence_1",
+        "reset&Sequence_1",
+        "startTime&Sequence_1",
+        "endTime&Sequence_1",
+        "task&Sequence_2",
+        "culture&Sequence_2",
+        "currentTime&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
